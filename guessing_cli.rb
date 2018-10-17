@@ -4,5 +4,6 @@ def guessing_game
   user_input = gets.chomp.to_s 
   if user_input == roll 
     return "You guessed the correct number!"
-    
+    elsif user_input != roll 
+    return 
   
