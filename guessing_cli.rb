@@ -1,2 +1,2 @@
 def guessing_game
-  puts ""
+  puts "Guess a nubmer between 1 and 6: "
